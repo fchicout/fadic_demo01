@@ -1,1 +1,3 @@
-print("Infra de SW")
+
+def sayHello():
+    print("Infra de SW")
